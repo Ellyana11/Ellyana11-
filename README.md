@@ -11,7 +11,7 @@
 </ol>
 
 <h2>My Hobby</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sketch_drawing.png/800px-Sketch_drawing.png" alt="Drawing Hobby" width="300"/>
+<img src="https://hips.hearstapps.com/hmg-prod/images/white-cat-breeds-kitten-in-grass-67bf648a54a3b.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" alt="Drawing Hobby" width="300"/>
 
 <h2>Things I Like</h2>
 <ol>
